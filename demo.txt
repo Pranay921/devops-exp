@@ -1,1 +1,2 @@
+this is the demo.txt file in the branch2
 this is the demo.txt file in the branch1
