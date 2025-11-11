@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict2
+=======
+Conflict
+>>>>>>> ff8b566 (Added conflict.txt)
